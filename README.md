@@ -43,7 +43,7 @@ wheel            0.34.2
 
 This is a Udemy Class for REST API using Flask for a Store.
 
-## Implmentation
+## Impalmentation
 
 This repository is implemented using Flask in Python and is for a REST API using Flask for a Store.
 
