@@ -1,11 +1,5 @@
-# My REST API Using FLASK
+# Stores REST API
 
-## Description
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQULALlchemy.
 
-This is a Udemy Class for REST API using Flask for a Store.
-
-## Implementation
-
-This repository is implemented using Flask in Python and is for a REST API using Flask for a Store.
-
-# Heroku updated 
+Deployed on Heroku.
